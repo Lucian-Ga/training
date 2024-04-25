@@ -1,2 +1,1 @@
-# training
-SWE training
+# pizza
